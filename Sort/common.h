@@ -1,0 +1,1 @@
+#define XCHG(a,b,type) {type c; c=a;a=b;b=c;}
